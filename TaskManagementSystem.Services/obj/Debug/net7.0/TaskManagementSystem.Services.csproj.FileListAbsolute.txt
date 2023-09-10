@@ -1,0 +1,15 @@
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/bin/Debug/net7.0/TaskManagementSystem.Services.deps.json
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/bin/Debug/net7.0/TaskManagementSystem.Services.dll
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/bin/Debug/net7.0/TaskManagementSystem.Services.pdb
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/bin/Debug/net7.0/TaskManagementSystem.Core.dll
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/bin/Debug/net7.0/TaskManagementSystem.Core.pdb
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.csproj.AssemblyReference.cache
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.AssemblyInfoInputs.cache
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.AssemblyInfo.cs
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.csproj.CoreCompileInputs.cache
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.csproj.CopyComplete
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.dll
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/refint/TaskManagementSystem.Services.dll
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/TaskManagementSystem.Services.pdb
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Services/obj/Debug/net7.0/ref/TaskManagementSystem.Services.dll

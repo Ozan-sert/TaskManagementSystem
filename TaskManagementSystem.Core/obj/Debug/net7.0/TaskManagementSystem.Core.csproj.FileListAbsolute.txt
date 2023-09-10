@@ -1,0 +1,12 @@
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/bin/Debug/net7.0/TaskManagementSystem.Core.deps.json
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/bin/Debug/net7.0/TaskManagementSystem.Core.dll
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/bin/Debug/net7.0/TaskManagementSystem.Core.pdb
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/TaskManagementSystem.Core.csproj.AssemblyReference.cache
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/TaskManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/TaskManagementSystem.Core.AssemblyInfoInputs.cache
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/TaskManagementSystem.Core.AssemblyInfo.cs
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/TaskManagementSystem.Core.csproj.CoreCompileInputs.cache
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/TaskManagementSystem.Core.dll
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/refint/TaskManagementSystem.Core.dll
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/TaskManagementSystem.Core.pdb
+/Users/ozansert/Desktop/RiderProjects/MyMusic.Identity/TaskManagementSystem/TaskManagementSystem.Core/obj/Debug/net7.0/ref/TaskManagementSystem.Core.dll
